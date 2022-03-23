@@ -1,5 +1,5 @@
-# [mural](https://webmural.com/dfmu)
+# [mural](https://webmural.com/aasb)
 
 * [HTML](index.html)
-* [CSS](dfmu.css)
+* [CSS](quote.css)
 * [opensource](UNLICENSE.txt)
